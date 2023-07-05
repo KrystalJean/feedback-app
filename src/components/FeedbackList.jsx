@@ -15,4 +15,5 @@ function FeedbackList({feedback}) {
 
   )
 }
+
 export default FeedbackList
